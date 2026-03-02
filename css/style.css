@@ -30,7 +30,7 @@ header {
     position: relative;
 }
 
-header section {
+section {
     background-color: #f7f7f7;
     outline: solid 1px #000;
     outline-offset: -20px;
@@ -75,7 +75,7 @@ p {
     margin: 1em 0;
 }
 
-section {
+main {
     margin: 0em auto;
     padding: 5em 0;
     max-width: 60vw;
